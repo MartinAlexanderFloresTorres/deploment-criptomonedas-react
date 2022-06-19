@@ -15,6 +15,8 @@ const Select = styled.select`
   padding: 10px;
   font-size: 16px;
   border-radius: 10px;
+  background: #fff;
+  color: #000;
 `;
 
 function useSelectMonedas(label, opciones) {
